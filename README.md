@@ -23,7 +23,7 @@ It automates the process of Paired Mass Difference (PMD) analysis, MS/MS spectru
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/TP-Finder-PMD.git](https://github.com/YourUsername/TP-Finder-PMD.git)
+    git clone [https://github.com/EMELY-C/PMD-Analysis-Workflow.git]
     cd TP-Finder-PMD
     ```
 
@@ -41,10 +41,10 @@ This file demonstrates the required structure (including Sheet 1 for data and Sh
 ## Usage
 
 1.  Place your data file in the project directory.
-2.  Open the script `PM-find-TPs.py` and ensure the `input_excel_file` variable matches your filename.
+2.  Open the script `PMD-find-TPs.py` and ensure the `input_excel_file` variable matches your filename.
 3.  Run the script:
     ```bash
-    python PM-find-TPs.py
+    python PMD-find-TPs.py
     ```
 
 ## Output Files
